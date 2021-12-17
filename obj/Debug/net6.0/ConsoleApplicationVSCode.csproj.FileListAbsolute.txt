@@ -1,0 +1,15 @@
+C:\Users\thiag\ConsoleApplicationVSCode\bin\Debug\net6.0\ConsoleApplicationVSCode.exe
+C:\Users\thiag\ConsoleApplicationVSCode\bin\Debug\net6.0\ConsoleApplicationVSCode.deps.json
+C:\Users\thiag\ConsoleApplicationVSCode\bin\Debug\net6.0\ConsoleApplicationVSCode.runtimeconfig.json
+C:\Users\thiag\ConsoleApplicationVSCode\bin\Debug\net6.0\ConsoleApplicationVSCode.dll
+C:\Users\thiag\ConsoleApplicationVSCode\bin\Debug\net6.0\ref\ConsoleApplicationVSCode.dll
+C:\Users\thiag\ConsoleApplicationVSCode\bin\Debug\net6.0\ConsoleApplicationVSCode.pdb
+C:\Users\thiag\ConsoleApplicationVSCode\obj\Debug\net6.0\ConsoleApplicationVSCode.csproj.AssemblyReference.cache
+C:\Users\thiag\ConsoleApplicationVSCode\obj\Debug\net6.0\ConsoleApplicationVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\ConsoleApplicationVSCode\obj\Debug\net6.0\ConsoleApplicationVSCode.AssemblyInfoInputs.cache
+C:\Users\thiag\ConsoleApplicationVSCode\obj\Debug\net6.0\ConsoleApplicationVSCode.AssemblyInfo.cs
+C:\Users\thiag\ConsoleApplicationVSCode\obj\Debug\net6.0\ConsoleApplicationVSCode.csproj.CoreCompileInputs.cache
+C:\Users\thiag\ConsoleApplicationVSCode\obj\Debug\net6.0\ConsoleApplicationVSCode.dll
+C:\Users\thiag\ConsoleApplicationVSCode\obj\Debug\net6.0\ref\ConsoleApplicationVSCode.dll
+C:\Users\thiag\ConsoleApplicationVSCode\obj\Debug\net6.0\ConsoleApplicationVSCode.pdb
+C:\Users\thiag\ConsoleApplicationVSCode\obj\Debug\net6.0\ConsoleApplicationVSCode.genruntimeconfig.cache
